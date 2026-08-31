@@ -1,0 +1,148 @@
+{
+  "success": true,
+  "api_version": "2.1.2",
+  "report_date": "2026-09-01",
+  "generated_at": "2026-09-01 03:55:22",
+  "completeness": {
+    "expected": 8,
+    "submitted": 0,
+    "missing_count": 8,
+    "submitted_consultants": [],
+    "missing_consultants": [
+      "Winson",
+      "Jordan",
+      "Louis",
+      "Frank",
+      "Raymond",
+      "Zack",
+      "Jin",
+      "Parker"
+    ],
+    "ready_for_report": false
+  },
+  "summary": {
+    "found": false,
+    "requested_date": "2026-09-01",
+    "sheet_query_date": "2026-08-01",
+    "date_matched": false,
+    "source": "日数据汇总!A4:M5",
+    "error": "SUMMARY_DATE_MISMATCH",
+    "message": "日数据汇总未切换到请求日期，已停止读取 A4:M5，防止生成错误日报。"
+  },
+  "consultants": [
+    {
+      "name": "Winson",
+      "found": false,
+      "date": "2026-09-01",
+      "error": "没有找到该日期的数据",
+      "header_row": 1,
+      "date_column": 1
+    },
+    {
+      "name": "Jordan",
+      "found": false,
+      "date": "2026-09-01",
+      "error": "没有找到该日期的数据",
+      "header_row": 1,
+      "date_column": 1
+    },
+    {
+      "name": "Louis",
+      "found": false,
+      "date": "2026-09-01",
+      "error": "没有找到该日期的数据",
+      "header_row": 1,
+      "date_column": 1
+    },
+    {
+      "name": "Frank",
+      "found": false,
+      "date": "2026-09-01",
+      "error": "没有找到该日期的数据",
+      "header_row": 1,
+      "date_column": 1
+    },
+    {
+      "name": "Raymond",
+      "found": false,
+      "date": "2026-09-01",
+      "error": "没有找到该日期的数据",
+      "header_row": 1,
+      "date_column": 1
+    },
+    {
+      "name": "Zack",
+      "found": false,
+      "date": "2026-09-01",
+      "error": "没有找到该日期的数据",
+      "header_row": 1,
+      "date_column": 1
+    },
+    {
+      "name": "Jin",
+      "found": false,
+      "date": "2026-09-01",
+      "error": "没有找到该日期的数据",
+      "header_row": 1,
+      "date_column": 1
+    },
+    {
+      "name": "Parker",
+      "found": false,
+      "date": "2026-09-01",
+      "error": "没有找到该日期的数据",
+      "header_row": 1,
+      "date_column": 1
+    }
+  ],
+  "data_quality": {
+    "consultants_found": 0,
+    "consultants_missing": [
+      "Winson",
+      "Jordan",
+      "Louis",
+      "Frank",
+      "Raymond",
+      "Zack",
+      "Jin",
+      "Parker"
+    ],
+    "interested_members": {
+      "blank_count": 0,
+      "blank_consultants": [],
+      "zero_count": 0,
+      "zero_consultants": [],
+      "value_count": 0,
+      "value_consultants": [],
+      "pending_count": 0,
+      "pending_consultants": []
+    },
+    "performance": {
+      "blank_count": 0,
+      "blank_consultants": [],
+      "zero_count": 0,
+      "zero_consultants": [],
+      "value_count": 0,
+      "value_consultants": [],
+      "pending_count": 0,
+      "pending_consultants": []
+    },
+    "aiax_downloads": {
+      "blank_count": 0,
+      "blank_consultants": [],
+      "zero_count": 0,
+      "zero_consultants": [],
+      "value_count": 0,
+      "value_consultants": [],
+      "pending_count": 0,
+      "pending_consultants": []
+    },
+    "market_feedback": {
+      "substantive_count": 0,
+      "substantive_consultants": [],
+      "blank_or_no_issue_count": 0,
+      "blank_or_no_issue_consultants": []
+    }
+  },
+  "duplicate_candidates": []
+}
